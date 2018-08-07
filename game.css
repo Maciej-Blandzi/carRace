@@ -1,0 +1,9 @@
+#controls-info,
+#points{
+  width: 15%;
+  background-color: #5b5b5b;
+  color: white;
+  font: normal 300 1.4rem Arial, sans-serif;
+  padding-left: 2ch;
+}
+
